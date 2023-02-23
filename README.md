@@ -49,7 +49,8 @@ A similar UI is available for Android too by passing `theme="ios"`:
 ## Install
 
 ```
-npm i -S @alessiocancian/react-native-actionsheet
+npm i -S https://github.com/boboxiaodd/react-native-actionsheet
+yarn add https://github.com/boboxiaodd/react-native-actionsheet
 ```
 
 ## Usage
