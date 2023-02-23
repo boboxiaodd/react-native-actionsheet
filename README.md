@@ -60,7 +60,7 @@ yarn add https://github.com/boboxiaodd/react-native-actionsheet
 
 ```js
 import { useRef } from 'react'
-import ActionSheet from '@alessiocancian/react-native-actionsheet'
+import ActionSheet from '@boboxiaodd/react-native-actionsheet'
 
 const Demo = () => {
   const actionSheetRef = useRef()
@@ -90,7 +90,7 @@ const Demo = () => {
 ### Class components
 
 ```js
-import ActionSheet from '@alessiocancian/react-native-actionsheet'
+import ActionSheet from '@boboxiaodd/react-native-actionsheet'
 
 class Demo extends React.Component {
   showActionSheet = () => {
