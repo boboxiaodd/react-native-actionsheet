@@ -117,6 +117,8 @@ class Demo extends React.Component {
 
 ### Use ActionSheetCustom directly
 
+# add `<SafeAreaProvider></SafeAreaProvider>` to `app.js` root
+
 so you can customize option and title
 
 ```js
