@@ -120,7 +120,7 @@ class Demo extends React.Component {
 so you can customize option and title
 
 ```js
-import { ActionSheetCustom as ActionSheet } from '@alessiocancian/react-native-actionsheet'
+import { ActionSheetCustom as ActionSheet } from '@boboxiaodd/react-native-actionsheet'
 
 const options = [
   'Cancel', 
