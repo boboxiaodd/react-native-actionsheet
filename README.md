@@ -177,7 +177,7 @@ const styles = {
 
 ## Props
 
-https://github.com/alessiocancian/react-native-actionsheet/blob/master/lib/options.js
+https://github.com/boboxiaodd/react-native-actionsheet/blob/master/lib/options.js
 
 <table>
     <tr>
