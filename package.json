@@ -52,9 +52,6 @@
     "react-test-renderer": "15.4.0",
     "standard": "*"
   },
-  "dependencies":{
-    "react-native-safe-area-context": "^5.2.0"
-  },
   "standard": {
     "parser": "babel-eslint"
   }
